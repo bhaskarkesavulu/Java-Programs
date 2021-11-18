@@ -1,10 +1,7 @@
-package com.basic;
+package com.javatpoint.model;
 
 class Hard {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("OK");
+		System.out.println("Hello");
 	}
-
 }
